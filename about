@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+        
+<style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      font-size:15px;
+      color:#ffff00;
+    }
+    th, td {
+      border: 1px solid #fff;
+      padding: 8px;
+      text-align: left;
+    }
+    th {
+      background-color: #000;
+    }
+  </style>
+        
+<table border="1">
+<tr>
+    <td><strong>Movie Name</strong></td>
+    <td>Salaar: Part 1 – Ceasefire</td>
+  <tr>
+  <tr>
+    <td><strong>Genre</strong></td>
+    <td>Action, Drama, Thriller</td>
+</tr>
+<tr>
+    <td><strong>Release date</strong></td>
+    <td>22 December 2023</td>
+  </tr>
+<tr>
+    <td><strong>Directed by</strong></td>
+    <td>Prashanth Neel</td>
+  </tr>
+  <tr>
+    <td><strong>Written by</strong></td>
+    <td>Prashanth Neel<br>Sandeep Reddy Bandla<br>Hanumaan Choudary<br>Dr. Suri</td>
+  </tr>
+  <tr>
+    <td><strong>Produced by</strong></td>
+    <td>Vijay Kiragandur</td>
+  </tr>
+  <tr>
+    <td><strong>Starring</strong></td>
+    <td>Prabhas<br>Prithviraj Sukumaran</td>
+  </tr>
+  <tr>
+    <td><strong>Cinematography</strong></td>
+    <td>Bhuvan Gowda</td>
+  </tr>
+  <tr>
+    <td><strong>Edited by</strong></td>
+    <td>Ujwal Kulkarni</td>
+  </tr>
+  <tr>
+    <td><strong>Music by</strong></td>
+    <td>Ravi Basrur</td>
+  </tr>
+  <tr>
+    <td><strong>Production company</strong></td>
+    <td>Hombale Films</td>
+  </tr>
+  <tr>
+    <td><strong>Distributed by</strong></td>
+    <td>See below</td>
+  </tr>
+  <tr>
+    <td><strong>Running time</strong></td>
+    <td>175 minutes</td>
+  </tr>
+  <tr>
+    <td><strong>Country</strong></td>
+    <td>India</td>
+  </tr>
+  <tr>
+    <td><strong>Language</strong></td>
+    <td>Telugu</td>
+  </tr>
+</table>
+
+
+        
+    </body>
+</html>
